@@ -1,0 +1,44 @@
+body {
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    
+  }
+
+  div{
+    background-color: gray;
+  }
+
+  .entry{
+    display: block;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px;
+  }
+
+  li {
+    list-style-type: none;
+    padding: 10px;
+  }
+
+  input{
+    width:80%;
+  }
+
+  .delete{
+      width:80%;
+  }
+
+  .contacts{
+      display: inline-block;
+      padding: 10px;
+  }
+section{
+    justify-content: center;
+    padding: 10px;
+}
+
+  h3{
+      color: white;
+  }
